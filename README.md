@@ -21,7 +21,7 @@ A MERN stack application where users can view top Reddit posts, save them, copy 
 - **Frontend:** React.js, TailwindCSS, Axios
 - **Backend:** Node.js, Express.js, MongoDB (Mongoose)
 - **Authentication:** JWT (JSON Web Tokens)
-- **Deployment:** Google Cloud Run (Backend)
+  
 
 ---
 
