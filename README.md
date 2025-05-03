@@ -12,7 +12,7 @@ A MERN stack application where users can view top Reddit posts, save them, copy 
 - 🔐 User authentication with JWT (Register / Login).
 - 📈 Track credit points on the dashboard.
 - 🛡 Admin dashboard to monitor user activities.
-- 🌐 Backend hosted on Google Cloud Run.
+
 
 ---
 
